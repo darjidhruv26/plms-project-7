@@ -1,0 +1,14 @@
+#form {
+  width: 100dvw;
+  margin: 0 auto;
+}
+
+#main-heading {
+  background: -webkit-linear-gradient(#b24fff, #51068b);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#toggle-box {
+  box-shadow: 0px 4px 8px 0px rgba(81, 6, 139, 0.12);
+}
