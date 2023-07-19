@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
     <>
       <Link to="auth/signup?mode=instructor">Register</Link>
-      <Link to="auth/signin">Login</Link>
+      <Link to="auth/signin">Log</Link>
     </>
   );
 };
